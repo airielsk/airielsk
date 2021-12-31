@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @airielsk
+- 👀 I’m interested in learning to code! :D
+- 🌱 I’m currently learning ...coding...working on the Odin Project 12/30/22
